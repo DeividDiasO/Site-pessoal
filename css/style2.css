@@ -1,0 +1,14 @@
+@media (max-width: 780px) {
+    #a1 {
+        display: none;
+    }
+    #a2 {
+        display: flex;
+    }
+    main {
+        max-width: 100%;
+    }
+    .tempo { 
+        background-size: 170%;
+    }
+}

@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'EL';
+    src: url(../fontes/ERASLGHT.TTF);
+}
+
+@font-face {
+    font-family: 'EM';
+    src: url(../fontes/ERASMD.TTF);
+}
+
+@font-face {
+    font-family: 'EB';
+    src: url(../fontes/ERASBD.TTF);
+}
